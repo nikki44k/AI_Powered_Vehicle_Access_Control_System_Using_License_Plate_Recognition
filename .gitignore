@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+.env
+
+# Data and large files
+data/kaggle/
+model/yolov8_license_plate_model.pt
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
