@@ -1,6 +1,6 @@
 # AI-Powered Vehicle Access Control System Using License Plate Recognition
 
-**Author:** Nikhitha
+**Author:** Nikhitha Kilari
 **Course:** CS 455 Spring 2025
 **Date:** May 2025
 
